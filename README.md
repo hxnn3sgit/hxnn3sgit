@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hxnn3sgit
+- 👀 I’m interested in anything related to Computer Science, Artificial Intelligence and Mathematics 
+- 🌱 I’m currently studying abroad in the Masters Degree Data Science in Aveiro, Portugal
+- 💞️ At my homeuniversity I'm in the Bachelors Degree in Artificial Intelligence & Data Science 
+- 📫 How to reach me: seihannes@gmx.de
