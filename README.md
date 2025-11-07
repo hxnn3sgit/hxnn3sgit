@@ -26,6 +26,3 @@ Currently, I’m working on **Open WebUI combined with MCP Server solutions** to
 
 ## 📫 How to reach me
 - Email: **seihannes@gmx.de**  
-
----
-✨ Always curious to learn, build, and bring AI into real-world applications.
