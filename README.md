@@ -28,7 +28,7 @@ My focus is not just writing AI models, but deploying, optimizing, and scaling t
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hxnn3sgit&show_icons=true&theme=tokyonight&count_private=true" alt="Hannes' GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxnn3sgit&theme=tokyonight" alt="Hannes' GitHub Streak" />
 </p>
 
 ---
