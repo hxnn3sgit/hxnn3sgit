@@ -1,28 +1,38 @@
-# 👋 Hi, I’m Hannes (@hxnn3sgit)
+# 👋 Hi, I'm Hannes (@hxnn3sgit)
 
-I’m an **AI & Data Science student at OTH Regensburg (Bavaria, Germany)** with a passion for Computer Science, Artificial Intelligence, and Mathematics.  
-Currently, I’m working on **Open WebUI combined with MCP Server solutions** to help small businesses automate and optimize their processes.
+I am an **AI & Data Science Student at OTH Regensburg** with a strong foundation in **System Administration**. I bridge the gap between AI development and high-performance Infrastructure/MLOps.
 
----
-
-## 🚀 Current Project
-- [Open WebUI + MCP Servers]  
-  Building modular **AI-driven automation** for small businesses using Open WebUI and MCP
+My focus is not just writing AI models, but deploying, optimizing, and scaling them efficiently in production environments.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, C++, JavaScript  
-- **Frameworks & Libraries:** FastAPI, FastMCP 
-- **Tools & Platforms:** Docker, Git, Linux Ubuntu Server 24.04, Open WebUI, MCP Servers  
-- **Databases:** PostgreSQL, SQlite  
+## 🛠️ What I Do
+
+*   **⚡ LLM Inference & Backend Infrastructure:** Benchmarking and optimizing on-premises LLM deployments using **vLLM**, **SGLang**, and **Docker** to achieve maximum throughput and minimal latency.
+*   **🤖 AI Automation for SMBs:** Architecting modular, secure AI solutions for small and medium-sized businesses, leveraging **Open WebUI** and **MCP (Model Context Protocol) Servers** for automated workflows.
+*   **⚙️ Enterprise Integration & Infrastructure:** Leveraging my background as a trained system administrator to seamlessly deploy and integrate AI solutions into corporate IT landscapes, proactively managing networking, firewalls, and configuration bottlenecks.
+
+---
+
+## 🧰 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, JavaScript, SQL |
+| **AI & MLOps** | vLLM, SGLang, Open WebUI, MCP (FastMCP), OWUI RAG |
+| **Backend & Infra** | FastAPI, Docker, Nginx, Linux (Ubuntu Server), Git |
+| **Databases** | PostgreSQL, SQLite |
 
 ---
 
 ## 📊 GitHub Stats
-![Hannes' GitHub stats](https://github-readme-stats.vercel.app/api?username=hxnn3sgit&show_icons=true&theme=tokyonight)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hxnn3sgit&show_icons=true&theme=tokyonight&count_private=true" alt="Hannes' GitHub Stats" />
+</p>
 
 ---
 
-## 📫 How to reach me
-- Email: **seihannes@gmx.de**  
+## 📬 Contact
+
+- **Email:** seihannes@gmx.de
